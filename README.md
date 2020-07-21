@@ -30,3 +30,19 @@
     - Imutabilidade;
     - Variáveis;
         - Escopo Global, de Bloco, de Função;
+        - Declaração var, let e const;
+        - Tipos:
+            - String;
+            - Number;
+            - Boolean;
+            - Null;
+            - Undefined;
+            - Symbol.
+        - Object, function, array;
+        - Operadores:
+            - Aritméticos;
+            - Atribuição;
+            - Comparação;
+            - Condicional;
+            - Lógicos;
+            - Spread.
