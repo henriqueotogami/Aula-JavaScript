@@ -53,3 +53,10 @@
             - While;
             - Do...while;
             - For...in e for...off;
+---------------------------------------------------------------------
+- **Pasta:** Aula-JavaScript-POO
+    - Herança;
+    - Classes;
+    - Modificadores de acesso;
+    - Encapsulamento;
+    - Static
