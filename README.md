@@ -43,6 +43,13 @@
             - Aritméticos;
             - Atribuição;
             - Comparação;
-            - Condicional;
+            - Condicional:
+                - If, else, else if;
+                - Switch case, break;
             - Lógicos;
             - Spread.
+        - Estruturas de repetição:
+            - For;
+            - While;
+            - Do...while;
+            - For...in e for...off;

@@ -4,6 +4,8 @@
 12 % 5 // Retorna 2.
 
 // Incremento (++) e decremento (--)
+// Segundo a explicação, quando o valor a ser incrementado está do lado direito do símbolo de incremento, a variável vai receber o valor incrementado.
+//Quando o valor estiver do lado esquerdo, a variável vai receber primeiro o valor atual para depois incrementar. 
 ++x
 x++
 
