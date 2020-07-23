@@ -1,8 +1,9 @@
-## Aulas de JavaScript do Bootcamp Desenvolvedor FullStack Python 2020
+## Aulas de JavaScript ES6 do Bootcamp Desenvolvedor FullStack Python 2020
 ### Digital Innovation One
 #### Henrique Matheus Alves Pereira
 ---------------------------------------------------------------------
 
+#### Rafael Galleani
 - **Pasta:** Aula-JavaScript
     - Conceitos básicos da linguagem
         - Lista;
@@ -16,12 +17,14 @@
         - Alert();
         - document.getElementById().inner.HTML.       
 ---------------------------------------------------------------------
+#### Rafael Galleani
 - **Pasta:** Aula-JQuery-Ajax
     - Construção de uma aplicação web que retorna informações de um CEP procurado.
         - (HTML5 + JSON + Bootstrap + JavaScript + JQuery + Ajax)
             - $.ajax({url, type, success});
             - Navbar, ProgressBar e Table do Bootstrap.
 ---------------------------------------------------------------------
+#### Guilherme Cabrini da Silva
 - **Pasta:** Aula-ES6
     - Closure;
     - Currying;
@@ -52,11 +55,21 @@
             - For;
             - While;
             - Do...while;
-            - For...in e for...off;
+            - For...in e for...off.
 ---------------------------------------------------------------------
+#### Guilherme Cabrini da Silva
 - **Pasta:** Aula-JavaScript-POO
     - Herança;
     - Classes;
     - Modificadores de acesso;
     - Encapsulamento;
-    - Static
+    - Static.
+---------------------------------------------------------------------
+#### Guilherme Cabrini da Silva
+- **Pasta:** Aula-JavaScript-Design-Patterns
+    - Factory;
+    - Singleton;
+    - Decorator;
+    - Observer;
+    - Module
+---------------------------------------------------------------------
