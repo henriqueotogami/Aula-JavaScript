@@ -71,5 +71,13 @@
     - Singleton;
     - Decorator;
     - Observer;
-    - Module
+    - Module.
 ---------------------------------------------------------------------
+#### Guilherme Cabrini da Silva
+- **Pasta:** Aula-Criação-de-Array
+    - Criação de Array;
+    - Manipulação de Array;
+    - Iteração de Array;
+    - Busca em Arrays;
+    - Transformar elementos em Arrays.
+    ---------------------------------------------------------------------
