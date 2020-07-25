@@ -20,53 +20,51 @@
     */
     const pets = [
         {
+            name: "bolinha",
+            type: "dog",
+            age: 15,
+            weight: 30
+        },
+        {
+            name: "mingal",
+            type: "cat",
+            age: 6,
+            weight: 2
+        },
+        {
             name: "rex",
             type: "dog",
-            age: 9,
-            peso: 15
+            age: 4,
+            weight: 5
         },
         {
-            name: "chana",
+            name: "marrom",
             type: "cat",
-            age: 5,
-            peso: 3
+            age: 2,
+            weight: 1
         },
         {
-            name: "nemo",
+            name: "gulp",
             type: "fish",
             age: 1,
-            peso: 0.01
+            weight: 0.01
         },
         {
-            name: "epona",
+            name: "pé de pano",
             type: "horse",
-            age: 22,
-            peso: 200
-        },
-        {
-            name: "policarpio",
-            type: "donkey",
-            age: 7,
-            peso: 150
-        },
-        {
-            name: "esguicho",
-            type: "turtle",
-            age: 112,
-            peso: 55
+            age: 1,
+            weight: 55
         }
     ]
 
-    const ehMenorQueSeis = (numero) => {
-        return numero < 6
-    }
-
-    const youngPets = pets.filter(( {age} ) => ehMenorQueSeis(age))
+    /**
+     * Map
+     * Retorna um novo array com a mesma quantidade de elementos
+     * que o array inicial.
+     */
 
     const petNames = pets.map((pet) => {
-        return pet.name // + ' ' + pet.age
+        return pet.name
     })
 
-    // console.log(pets)
-    // console.log(youngPets)
-    // console.log(petNames)
+    console.log(pets)

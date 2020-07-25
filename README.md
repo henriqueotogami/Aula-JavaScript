@@ -80,4 +80,10 @@
     - Iteração de Array;
     - Busca em Arrays;
     - Transformar elementos em Arrays.
-    ---------------------------------------------------------------------
+---------------------------------------------------------------------
+#### Caio Delgado
+- **Pasta:** Desafio-Prático
+    - Explicação da função Map;
+    - Explicação da função Filter;
+    - Explicação da função Reduce;
+    - Introdução a Promises.
