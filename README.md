@@ -82,8 +82,28 @@
     - Transformar elementos em Arrays.
 ---------------------------------------------------------------------
 #### Caio Delgado
-- **Pasta:** Desafio-Prático
+- **Pasta:** Desafio-Prático-1
     - Explicação da função Map;
     - Explicação da função Filter;
     - Explicação da função Reduce;
     - Introdução a Promises.
+---------------------------------------------------------------------
+#### Lucas Santos
+- **Pasta:** Desafio-Prático-2
+    - syncFull;
+    - syncSentence;
+    - callbacksSingleParam;
+    - callbacksSingleFunction;
+    - callbackUnordered;
+    - callbackHell;
+    - callbackRecursive;
+    - promise;
+    - promisify;
+    - chaining;
+    - throwContinuous;
+    - throwStop;
+    - multipleCatch;
+    - lock;
+    - finally;
+    - await;
+    - error.
