@@ -107,3 +107,8 @@
     - finally;
     - await;
     - error.
+---------------------------------------------------------------------
+#### Rogério Munhoz
+- **Pasta:** Desafio-Prático-3
+    - async;
+    - await.
