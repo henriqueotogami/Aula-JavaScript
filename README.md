@@ -112,3 +112,9 @@
 - **Pasta:** Desafio-Prático-3
     - async;
     - await.
+---------------------------------------------------------------------
+#### Celso Henrique 
+- **Pasta:** Aula-JavaScript-Avancado
+    - Functions e arrow functions;
+    - Default functions arguments;
+    - Enhanced object literals
