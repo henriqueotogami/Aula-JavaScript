@@ -113,8 +113,11 @@
     - async;
     - await.
 ---------------------------------------------------------------------
-#### Celso Henrique 
+#### Celso Henrique da Silva
 - **Pasta:** Aula-JavaScript-Avancado
     - Functions e arrow functions;
     - Default functions arguments;
-    - Enhanced object literals
+    - Enhanced object literals;
+    - Rest e Spread operators;
+    - Destructuring - ReactJs;
+
