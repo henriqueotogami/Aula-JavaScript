@@ -120,4 +120,5 @@
     - Enhanced object literals;
     - Rest e Spread operators;
     - Destructuring - ReactJs;
-
+    - Symbols, Iterators, Generator;
+    - Callback, Promises, Fetch
