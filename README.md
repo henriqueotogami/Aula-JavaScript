@@ -16,8 +16,7 @@
         - Console.log();
         - Alert();
         - document.getElementById().inner.HTML.       
----------------------------------------------------------------------
-#### Rafael Galleani
+
 - **Pasta:** Aula-JQuery-Ajax
     - Construção de uma aplicação web que retorna informações de um CEP procurado.
         - (HTML5 + JSON + Bootstrap + JavaScript + JQuery + Ajax)
@@ -56,24 +55,21 @@
             - While;
             - Do...while;
             - For...in e for...off.
----------------------------------------------------------------------
-#### Guilherme Cabrini da Silva
+
 - **Pasta:** Aula-JavaScript-POO
     - Herança;
     - Classes;
     - Modificadores de acesso;
     - Encapsulamento;
     - Static.
----------------------------------------------------------------------
-#### Guilherme Cabrini da Silva
+
 - **Pasta:** Aula-JavaScript-Design-Patterns
     - Factory;
     - Singleton;
     - Decorator;
     - Observer;
     - Module.
----------------------------------------------------------------------
-#### Guilherme Cabrini da Silva
+
 - **Pasta:** Aula-Criação-de-Array
     - Criação de Array;
     - Manipulação de Array;
@@ -122,6 +118,7 @@
     - Destructuring - ReactJs;
     - Symbols, Iterators, Generator;
     - Callback, Promises, Fetch;
+    - Tratando erros, debugging no navegador;
     - **Pasta:** Automacao-de-Testes:
         - TDD;
         - BDD;
