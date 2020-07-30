@@ -121,4 +121,22 @@
     - Rest e Spread operators;
     - Destructuring - ReactJs;
     - Symbols, Iterators, Generator;
-    - Callback, Promises, Fetch
+    - Callback, Promises, Fetch;
+    - **Pasta:** Automacao-de-Testes:
+        - TDD;
+        - BDD;
+        - Mocha;
+            - **Pasta:** test:
+            - math.spec.js;
+            - **Pasta:** src:
+            - math.js
+        - Chai;
+            - **Pasta:** test:
+            - math.spec.js;
+            - **Pasta:** src:
+            - math.js
+        - Sinon:
+            - **Pasta:** test:
+            - math.spec.js;
+            - **Pasta:** src:
+            - math.js.           
