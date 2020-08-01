@@ -138,7 +138,7 @@
             - **Pasta:** src:
             - math.js.     
 ---------------------------------------------------------------------
-#### Bruno Carneiro
+#### Eduardo Gonçalves Costa
 - **Pasta:** Aula-ReactJs:
     - Introdução;
         - Configuração
