@@ -140,5 +140,9 @@
 ---------------------------------------------------------------------
 #### Eduardo Gonçalves Costa
 - **Pasta:** Aula-ReactJs:
-    - Introdução;
-        - Configuração
+    - Formulário;
+    - Stateful vs Stateless;
+    - Estilização;
+    - Flux;
+    - Redux;
+    
