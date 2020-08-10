@@ -146,3 +146,7 @@
     - Flux;
     - Redux;
     
+---------------------------------------------------------------------
+#### Gabriela Pinheiro (github.com/SpruceGabriela)
+- **Pasta:** SnakeGame:
+    Recriando o jogo da cobrinha, utilizando JavaScript + HTML5 + CSS3
